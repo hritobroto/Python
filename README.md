@@ -7,7 +7,7 @@ For more information refer the documentation [here](https://docs.python.org/3/)
 -----
 
 ### Some Basic Librabries 
-* Pillow  
+* Pillow
 ~~~
 pip install Pillow
 ~~~
