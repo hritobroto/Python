@@ -1,8 +1,10 @@
 # Python
 
 All codes here are in python  
-Download python [here](https://www.python.org/downloads/)
+Download python [here](https://www.python.org/downloads/)  
 For more information refer the documentation [here](https://docs.python.org/3/)  
+
+-----
 
 ### Some Basic Librabries 
 * Pillow  
@@ -57,3 +59,6 @@ pip install pygame
 ~~~
 pip install PythonTurtle
 ~~~
+
+-----
+
